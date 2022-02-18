@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Map
+  - SoulCenter
+  - Nexus
+  - PlayerEnemy
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Obstacules
+  - Nexus
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Suelo
+    uniqueID: 1131740083
+    locked: 0
+  - name: Edificios
+    uniqueID: 1561970451
+    locked: 0
+  - name: Personajes
+    uniqueID: 3989712671
+    locked: 0
+  - name: Efectos
+    uniqueID: 3723436825
+    locked: 0
